@@ -14380,6 +14380,7 @@ cc_prebuilt_library_shared {
                 "libutils",
                 "libcutils",
                 "libaudioclient",
+                "libaudioclient_shim",
                 "libaudiofoundation",
                 "audioclient-types-aidl-cpp",
                 "android.media.audio.common.types-V4-cpp",
